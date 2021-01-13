@@ -1,9 +1,3 @@
-lets changes some text
-const saif = "what should i do"
-console.log(saif)
-
-some test changes
-
-let a
-
-im going to change 
+const  test = () => {
+ console.log('ok') 
+}
